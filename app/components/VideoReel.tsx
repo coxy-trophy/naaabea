@@ -43,7 +43,7 @@ export default function VideoReel() {
   };
 
   return (
-    <section className="py-24 sm:py-32 overflow-hidden">
+    <section className="py-16 sm:py-24 lg:py-32 overflow-hidden">
       <div className="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-10 mb-10 flex items-end justify-between gap-6">
         <div>
           <p className="text-accent-light text-sm font-medium uppercase tracking-widest mb-3">

@@ -33,7 +33,7 @@ export default function Gallery() {
     );
 
   return (
-    <section id="portfolio" className="py-24 sm:py-32">
+    <section id="portfolio" className="py-16 sm:py-24 lg:py-32">
       <div className="max-w-[1440px] mx-auto px-4 sm:px-6 lg:px-10">
         <div className="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-6 mb-12">
           <div>
