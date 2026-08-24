@@ -69,6 +69,9 @@ export default function Footer() {
 
         <p className="mt-8 text-center sm:text-left text-sm text-muted">
           © {new Date().getFullYear()} Naa Abea Benjamin-Addy. All rights reserved.
+          <span className="block sm:inline mt-1 sm:mt-0 sm:before:content-['·_']">
+            Built with ❤️ by Hexacodelabs
+          </span>
         </p>
       </div>
     </footer>
