@@ -20,9 +20,12 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Naa Bea | Model Portfolio",
+  title: "Naa Abea Benjamin-Addy | Model Portfolio",
   description:
-    "Portfolio of Naa Bea — model, content creator, and visual storyteller based in Ghana.",
+    "Portfolio of Naa Abea Benjamin-Addy — model, content creator, and visual storyteller based in Ghana.",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({
